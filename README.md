@@ -10,7 +10,7 @@
 
 ### 🧠 Sobre mim
 
-Sou um estudante brasileiro da área de tecnologia com experiência prática em desenvolvimento full stack, suporte técnico e automação de processos industriais. Atualmente participo de um bootcamp DevOps, e gosto de aplicar meus conhecimentos em projetos que envolvem boas práticas de código, versionamento, containers e integração com nuvem.
+Atualmente estou cursando Tecnologia em Desenvolvimento de Sistemas, possuo certa experiência com TypeScript, JavaScript, React, Node.js, Python, PHP, SQL e NoSQL (MongoDB). Atualmente, estou ingressando meus estudos em Java, PostgreSQL, Cloud Computing e DevOps, expandindo meus conhecimentos nesse universo Dev. Gosto de entender como as tecnologias se conectam para criar soluções eficientes e escaláveis, e estou sempre à procura de novos desafios e estudando para me manter atualizado com as tendências do mercado.
 
 ---
 
